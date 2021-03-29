@@ -1,6 +1,12 @@
-## Hi! 👋
+## Hi!I'm Kevin Zhang 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kevin996233&theme=tokyonight)](https://github.com/Kevin996233/github-readme-stats)
+[![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhayschan&style=flat-square)](https://github.com/hayschan)
+
+- 🍻 Junior at 🇨🇳 [SCAU](https://www.scau.edu.cn), _BSc in Computer Science_
+- ⚡ Java / Python.
+- 🏃 Sailing / Kayak / Scuba Diving / Windsurfing / Table Tennis / Cycling
+- ♟ Chinese Chess
+
 
 <!--
 **Kevin996233/Kevin996233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
